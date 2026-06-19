@@ -1,0 +1,343 @@
+{
+  "total": 45716,
+  "mappable": 32186,
+  "unmappable": 13530,
+  "fell": 1107,
+  "found": 44609,
+  "massKnown": 45585,
+  "yearRange": {
+    "min": 860,
+    "max": 2013
+  },
+  "byDecade": [
+    {
+      "decade": 860,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 920,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1390,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1490,
+      "fell": 3,
+      "found": 0
+    },
+    {
+      "decade": 1510,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1570,
+      "fell": 0,
+      "found": 1
+    },
+    {
+      "decade": 1580,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1600,
+      "fell": 0,
+      "found": 1
+    },
+    {
+      "decade": 1620,
+      "fell": 3,
+      "found": 0
+    },
+    {
+      "decade": 1630,
+      "fell": 3,
+      "found": 0
+    },
+    {
+      "decade": 1640,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1650,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1660,
+      "fell": 2,
+      "found": 0
+    },
+    {
+      "decade": 1670,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1680,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1700,
+      "fell": 1,
+      "found": 0
+    },
+    {
+      "decade": 1710,
+      "fell": 1,
+      "found": 1
+    },
+    {
+      "decade": 1720,
+      "fell": 1,
+      "found": 1
+    },
+    {
+      "decade": 1740,
+      "fell": 2,
+      "found": 1
+    },
+    {
+      "decade": 1750,
+      "fell": 4,
+      "found": 0
+    },
+    {
+      "decade": 1760,
+      "fell": 4,
+      "found": 0
+    },
+    {
+      "decade": 1770,
+      "fell": 4,
+      "found": 1
+    },
+    {
+      "decade": 1780,
+      "fell": 2,
+      "found": 3
+    },
+    {
+      "decade": 1790,
+      "fell": 9,
+      "found": 3
+    },
+    {
+      "decade": 1800,
+      "fell": 17,
+      "found": 5
+    },
+    {
+      "decade": 1810,
+      "fell": 24,
+      "found": 6
+    },
+    {
+      "decade": 1820,
+      "fell": 25,
+      "found": 5
+    },
+    {
+      "decade": 1830,
+      "fell": 21,
+      "found": 12
+    },
+    {
+      "decade": 1840,
+      "fell": 31,
+      "found": 18
+    },
+    {
+      "decade": 1850,
+      "fell": 36,
+      "found": 35
+    },
+    {
+      "decade": 1860,
+      "fell": 56,
+      "found": 39
+    },
+    {
+      "decade": 1870,
+      "fell": 51,
+      "found": 38
+    },
+    {
+      "decade": 1880,
+      "fell": 40,
+      "found": 83
+    },
+    {
+      "decade": 1890,
+      "fell": 51,
+      "found": 75
+    },
+    {
+      "decade": 1900,
+      "fell": 56,
+      "found": 83
+    },
+    {
+      "decade": 1910,
+      "fell": 66,
+      "found": 88
+    },
+    {
+      "decade": 1920,
+      "fell": 70,
+      "found": 89
+    },
+    {
+      "decade": 1930,
+      "fell": 91,
+      "found": 218
+    },
+    {
+      "decade": 1940,
+      "fell": 58,
+      "found": 138
+    },
+    {
+      "decade": 1950,
+      "fell": 60,
+      "found": 152
+    },
+    {
+      "decade": 1960,
+      "fell": 62,
+      "found": 335
+    },
+    {
+      "decade": 1970,
+      "fell": 60,
+      "found": 4909
+    },
+    {
+      "decade": 1980,
+      "fell": 56,
+      "found": 6766
+    },
+    {
+      "decade": 1990,
+      "fell": 56,
+      "found": 11563
+    },
+    {
+      "decade": 2000,
+      "fell": 59,
+      "found": 17698
+    },
+    {
+      "decade": 2010,
+      "fell": 13,
+      "found": 1950
+    }
+  ],
+  "byGroup": [
+    {
+      "group": "Ordinary chondrite",
+      "count": 38894
+    },
+    {
+      "group": "Achondrite",
+      "count": 2115
+    },
+    {
+      "group": "Carbonaceous chondrite",
+      "count": 1603
+    },
+    {
+      "group": "Unknown",
+      "count": 1112
+    },
+    {
+      "group": "Iron",
+      "count": 1070
+    },
+    {
+      "group": "Enstatite chondrite",
+      "count": 509
+    },
+    {
+      "group": "Stony-iron",
+      "count": 281
+    },
+    {
+      "group": "Other chondrite",
+      "count": 132
+    }
+  ],
+  "byRegion": [
+    {
+      "region": "Antarctica",
+      "count": 22099
+    },
+    {
+      "region": "Asia",
+      "count": 3600
+    },
+    {
+      "region": "Northwest Africa & Sahara",
+      "count": 2438
+    },
+    {
+      "region": "North America",
+      "count": 1821
+    },
+    {
+      "region": "Oceania",
+      "count": 666
+    },
+    {
+      "region": "Europe",
+      "count": 559
+    },
+    {
+      "region": "South America",
+      "count": 546
+    },
+    {
+      "region": "Africa",
+      "count": 440
+    },
+    {
+      "region": "Other",
+      "count": 17
+    }
+  ],
+  "massBuckets": [
+    {
+      "label": "<10 g",
+      "count": 13770
+    },
+    {
+      "label": "10 g – 100 g",
+      "count": 16390
+    },
+    {
+      "label": "100 g – 1 kg",
+      "count": 10554
+    },
+    {
+      "label": "1 kg – 10 kg",
+      "count": 3483
+    },
+    {
+      "label": "10 kg – 100 kg",
+      "count": 1083
+    },
+    {
+      "label": ">100 kg",
+      "count": 305
+    }
+  ],
+  "antarcticaFindShare": 0.4953933062834854
+}

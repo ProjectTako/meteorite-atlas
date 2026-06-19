@@ -1,0 +1,53 @@
+:root {
+  /* Observatory palette — deep space + a single warm meteor accent. */
+  --void: #0a0e16;
+  --panel: #121826;
+  --panel-2: #1a2233;
+  --line: #263041;
+  --ink: #e8ecf4;
+  --ink-dim: #9aa6bd;
+  --ink-faint: #5c6a82;
+  --meteor: #ff7a3c;     /* signature accent — incandescent entry trail */
+  --meteor-soft: #ffae84;
+  --ice: #7fd4ff;        /* cool counterpoint for "fell" / Antarctica */
+  --radius: 10px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--void);
+  color: var(--ink);
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-family: "Spline Sans", "Inter", sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.mono {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+button { font-family: inherit; cursor: pointer; }
+a { color: var(--meteor-soft); }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: var(--line); border-radius: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
