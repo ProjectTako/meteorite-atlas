@@ -8,8 +8,6 @@ with an honest take on the collection bias hiding inside it.
 > dark rock on white ice is impossible to miss. This app explores the falls *and*
 > explains why the map looks the way it does.
 
-![explore + insights](docs/screenshot.png)
-
 ## Quick start
 
 ```bash
